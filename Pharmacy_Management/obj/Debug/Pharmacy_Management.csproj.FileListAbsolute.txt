@@ -1,0 +1,39 @@
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.csprojResolveAssemblyReference.cache
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Employee.resources
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Properties.Resources.resources
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Stock.resources
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Supplier.resources
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.csproj.GenerateResource.Cache
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.csproj.CoreCompileInputs.cache
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Admin_Panel.resources
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Sales_Search.resources
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\bin\Debug\Pharmacy_Management.exe.config
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\bin\Debug\Pharmacy_Management.exe
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\bin\Debug\Pharmacy_Management.pdb
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.exe
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.pdb
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Accounts.resources
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Choose.resources
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Log_In.resources
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Product.resources
+D:\3.2\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Bill.resources
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\bin\Debug\Pharmacy_Management.exe.config
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\bin\Debug\Pharmacy_Management.exe
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\bin\Debug\Pharmacy_Management.pdb
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.csprojAssemblyReference.cache
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Accounts.resources
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Admin_Panel.resources
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Bill.resources
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Choose.resources
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Employee.resources
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Log_In.resources
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Price_List.resources
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Product.resources
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Properties.Resources.resources
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Sales_Search.resources
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Stock.resources
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.Supplier.resources
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.csproj.GenerateResource.cache
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.csproj.CoreCompileInputs.cache
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.exe
+D:\Academic Projects\Pharmacy Management\Pharmacy_Management\Pharmacy_Management\obj\Debug\Pharmacy_Management.pdb
